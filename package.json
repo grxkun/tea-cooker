@@ -1,0 +1,25 @@
+{
+  "name": "tea-smart-contract-library",
+  "version": "1.1.4",
+  "description": "a library related to Tea Protocols that generates smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grxkun/tea-cooker.git"
+  },
+  "keywords": [
+    "smart-contract"
+  ],
+  "author": "grxkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grxkun/tea-cooker/issues"
+  },
+  "homepage": "https://github.com/grxkun/tea-cooker#readme",
+  "dependencies": {
+    "web3": "^4.6.0"
+  }
+}
